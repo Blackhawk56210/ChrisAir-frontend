@@ -1,4 +1,4 @@
-import Accordion from "../components/support/accordion.jsx";
+import Accordion from "../components/support/Accordion.jsx";
 import Team from "../assets/images/support.png";
 
 function Support() {

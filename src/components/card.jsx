@@ -4,7 +4,7 @@ import { faUser } from "@fortawesome/free-solid-svg-icons";
 import { faPlane } from "@fortawesome/free-solid-svg-icons";
 import { faOilCan } from "@fortawesome/free-solid-svg-icons"
 
-import ImageCarousel from "./carosuel";
+import ImageCarousel from "./Carosuel";
 
 function Card({ title, text, images, size, seats, range, linkText, linkHref }) {
   const endpoint="http://localhost:4242/checkout-session"

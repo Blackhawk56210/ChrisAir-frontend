@@ -1,11 +1,11 @@
 import "./App.css";
-import Home from "./pages/home.jsx";
+import Home from "./pages/Home.jsx";
 import Inventory from "./pages/Inventory";
 import { Routes, Route } from "react-router-dom";
-import NavBar from "./components/footer-header/navbar";
-import Footer from "./components/footer-header/footer.jsx";
-import Support from "./pages/support.jsx";
-import Checkout from "./pages/checkout.jsx"
+import NavBar from "./components/footer-header/Navbar.jsx";
+import Footer from "./components/footer-header/Footer.jsx";
+import Support from "./pages/Support.jsx";
+import Checkout from "./pages/Checkout.jsx"
 
 
 function App() {
