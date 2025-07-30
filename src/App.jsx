@@ -1,9 +1,9 @@
 import { Routes, Route } from "react-router-dom";
-import HomePage from './pages/HomePage';
-import Inventory from './pages/InventoryPage';
-import NavBar from './components/footer-header/Navbar';
-import Footer from './components/footer-header/NavFooter'
-import Support from './pages/SupportPage';
+import HomePage from '.src/pages/HomePage';
+import Inventory from '.src/pages/InventoryPage';
+import NavBar from '.src/components/footer-header/NavBar';
+import Footer from '.src/components/footer-header/NavFooter'
+import Support from '.src/pages/SupportPage';
 import "./App.css";
 
 function App() {
