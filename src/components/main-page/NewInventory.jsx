@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import Jet1 from '../../assets/images/showoff/jet1.png';
-import Heli1 from '../../assets/images/showoff/Heli1.png';
+import Heli1 from '../../assets/images/showoff/heli1.png';
 import Plane1 from '../../assets/images/showoff/plane1.png';
 
 const images = [
